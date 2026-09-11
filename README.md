@@ -64,7 +64,9 @@ tibble
 ellipse
 
 ## Report
-The complete analysis, including the mathematical derivations, figures, diagnostics and forecasting results, is available in Rapport.pdf.
+[![Report](https://img.shields.io/badge/Read%20Report-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](Rapport.pdf)
+
+The complete analysis, including the mathematical derivations, figures, diagnostics and forecasting results, is available in the link above.
 
 ## Author
 Aurélien Tarroux
